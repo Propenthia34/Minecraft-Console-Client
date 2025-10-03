@@ -4,7 +4,7 @@
   "description": "A simple console client to connect to a Minecraft server as a bot for Crage Network.",
   "main": "cragenetwork.js",
   "scripts": {
-    "start": "node cragenetwork.js",
+    "start": "node --max-old-space-size=4096 cragenetwork.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
