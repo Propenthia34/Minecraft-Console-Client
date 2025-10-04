@@ -100,7 +100,7 @@ async function checkForUpdates() {
 let antiAfkInterval = null;
 let survivalInterval = null;
 let reconnectTimer = null;
-let reconnectDelay = 5000; 
+let reconnectDelay = 50000; 
 
 const rl = readline.createInterface({
   input: process.stdin,
