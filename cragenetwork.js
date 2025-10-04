@@ -1,1 +1,250 @@
-const a0_0x5344e4=a0_0x7351;(function(_0x571ecd,_0x537717){const _0x35a08c=a0_0x7351,_0x5b549f=_0x571ecd();while(!![]){try{const _0x463c10=parseInt(_0x35a08c(0x13b))/0x1*(parseInt(_0x35a08c(0x15c))/0x2)+-parseInt(_0x35a08c(0x14d))/0x3+parseInt(_0x35a08c(0x141))/0x4*(parseInt(_0x35a08c(0x14e))/0x5)+parseInt(_0x35a08c(0x159))/0x6*(parseInt(_0x35a08c(0x15a))/0x7)+parseInt(_0x35a08c(0x128))/0x8+-parseInt(_0x35a08c(0x150))/0x9*(-parseInt(_0x35a08c(0x15d))/0xa)+-parseInt(_0x35a08c(0x154))/0xb*(parseInt(_0x35a08c(0x15b))/0xc);if(_0x463c10===_0x537717)break;else _0x5b549f['push'](_0x5b549f['shift']());}catch(_0x5d4fde){_0x5b549f['push'](_0x5b549f['shift']());}}}(a0_0x4b0a,0xd2cc5));const originalConsoleLog=console[a0_0x5344e4(0x14c)];console[a0_0x5344e4(0x14c)]=function(..._0x14285a){const _0xb24b45=a0_0x5344e4;if(typeof _0x14285a[0x0]==='string'&&_0x14285a[0x0]['includes'](_0xb24b45(0x146))&&_0x14285a[0x0]['includes']('partial\x20packet'))return;originalConsoleLog[_0xb24b45(0x156)](console,_0x14285a);};const mineflayer=require(a0_0x5344e4(0x12a)),readline=require('readline'),_chalk=require(a0_0x5344e4(0x143)),chalk=_chalk&&_chalk[a0_0x5344e4(0x130)]?_chalk[a0_0x5344e4(0x130)]:_chalk;function a0_0x7351(_0x246e9f,_0x3073d3){const _0x4b0a38=a0_0x4b0a();return a0_0x7351=function(_0x7351fd,_0x5c6a93){_0x7351fd=_0x7351fd-0x125;let _0x2155cc=_0x4b0a38[_0x7351fd];return _0x2155cc;},a0_0x7351(_0x246e9f,_0x3073d3);}let antiAfkInterval=null,survivalInterval=null;const rl=readline[a0_0x5344e4(0x13c)]({'input':process[a0_0x5344e4(0x12e)],'output':process[a0_0x5344e4(0x14b)]}),yellow=typeof chalk?.['yellow']===a0_0x5344e4(0x135)?chalk[a0_0x5344e4(0x148)]:_0x669149=>_0x669149;rl[a0_0x5344e4(0x12c)](yellow('>\x20')),rl['on']('line',_0x5c131c=>{const _0x4b2ede=a0_0x5344e4;if(global['bot']&&_0x5c131c[_0x4b2ede(0x13d)]()[_0x4b2ede(0x144)]>0x0)try{global[_0x4b2ede(0x140)]['chat'](_0x5c131c[_0x4b2ede(0x13d)]());}catch(_0x151ad4){console[_0x4b2ede(0x14c)](chalk[_0x4b2ede(0x136)](_0x4b2ede(0x142),_0x151ad4));}rl['prompt'](!![]);});function setupResourcePackHandlers(_0x28fd58){const _0x55d0c4=a0_0x5344e4;_0x28fd58['on'](_0x55d0c4(0x133),()=>{const _0x1f2d5c=_0x55d0c4;try{_0x28fd58[_0x1f2d5c(0x138)](),console[_0x1f2d5c(0x14c)](_0x1f2d5c(0x132));}catch(_0x5bfe5b){console['log'](_0x1f2d5c(0x131),_0x5bfe5b?.[_0x1f2d5c(0x14a)]||_0x5bfe5b);}}),_0x28fd58['on']('kicked',_0x33e37c=>{const _0x45a2f1=_0x55d0c4;console[_0x45a2f1(0x14c)](_0x45a2f1(0x125),_0x33e37c);});}function a0_0x4b0a(){const _0x286bd4=['green','165FVlKDC','Lütfen\x20kullanıcı\x20adı\x20ve\x20şifre\x20ile\x20başlatın.','apply','Crage Network Console Client Başlatıldı','Kullanım:\x20Bu\x20programı\x20doğrudan\x20çalıştırmayın.\x20Lütfen\x20start.bat\x20dosyasını\x20kullanın.','6pcLWHY','9829694kscOxY','2615196RiXehJ','38NCKKEO','11870urLTRq','random','[KICKED]','end','Bot\x20sunucuya\x20spawn\x20oldu.\x20Giriş\x20yapılıyor...','4895848NsIFLy','error','mineflayer','/login\x20','setPrompt','look','stdin','chat','default','[RP]\x20Resource\x20pack\x20kabul\x20hatası:','[RP]\x20Resource\x20pack\x20kabul\x20edildi.','resourcePack','prompt','function','red','spawn','acceptResourcePack','/server\x20survival','play.cragenetwork.com','66718ZGeGTT','createInterface','trim','tiny','Bağlantı\x20koptu.\x2030\x20saniye\x20içinde\x20yeniden\x20bağlanılıyor...','bot','28szfwrA','Mesaj\x20gönderilirken\x20bir\x20hata\x20oluştu:','chalk','length','toAnsi','Chunk\x20size\x20is','exit','yellow','/survival','message','stdout','log','2137590VGeWrC','216335dAfMUS','offline','9540pxSNtB','Giriş\x20tamamlandı.\x20/survival\x20döngüsü\x20başlıyor...','Sunucuya\x20bağlanılıyor...'];a0_0x4b0a=function(){return _0x286bd4;};return a0_0x4b0a();}function startBot(_0x47a321,_0xd9cef){const _0x4b7a1e=a0_0x5344e4;console[_0x4b7a1e(0x14c)](chalk[_0x4b7a1e(0x153)](_0x4b7a1e(0x157))),console[_0x4b7a1e(0x14c)](chalk[_0x4b7a1e(0x148)](_0x4b7a1e(0x152)));const _0x1c60ea=mineflayer['createBot']({'host':_0x4b7a1e(0x13a),'port':0x63dd,'username':_0x47a321,'password':_0xd9cef,'auth':_0x4b7a1e(0x14f),'version':'1.21.4','keepAlive':!![],'viewDistance':_0x4b7a1e(0x13e)});global[_0x4b7a1e(0x140)]=_0x1c60ea,setupResourcePackHandlers(_0x1c60ea),_0x1c60ea['on'](_0x4b7a1e(0x137),()=>{const _0x58884b=_0x4b7a1e;console[_0x58884b(0x14c)](chalk[_0x58884b(0x153)](_0x58884b(0x127))),setTimeout(()=>{const _0x96d4d2=_0x58884b;try{_0x1c60ea[_0x96d4d2(0x12f)](_0x96d4d2(0x12b)+_0xd9cef);}catch{}},0x5dc),setTimeout(()=>{const _0x56afc5=_0x58884b;try{_0x1c60ea[_0x56afc5(0x12f)](_0x56afc5(0x139));}catch{}},0x1388),setTimeout(()=>{const _0x14c7a6=_0x58884b;console[_0x14c7a6(0x14c)](chalk['yellow'](_0x14c7a6(0x151))),rl['prompt'](!![]);if(survivalInterval)clearInterval(survivalInterval);survivalInterval=setInterval(()=>{const _0x10705e=_0x14c7a6;try{if(global[_0x10705e(0x140)])global[_0x10705e(0x140)][_0x10705e(0x12f)](_0x10705e(0x149));}catch{}},0x7530);},0x1f40);if(antiAfkInterval)clearInterval(antiAfkInterval);antiAfkInterval=setInterval(()=>{const _0x11ca4f=_0x58884b;try{if(!_0x1c60ea||!_0x1c60ea['entity'])return;const _0x233cb8=Math[_0x11ca4f(0x15e)]()*Math['PI']*0x2-Math['PI'],_0x275329=Math[_0x11ca4f(0x15e)]()*(Math['PI']/0x2)-Math['PI']/0x4;_0x1c60ea[_0x11ca4f(0x12d)](_0x233cb8,_0x275329,!![]),rl['prompt'](!![]);}catch{}},0xea60);}),_0x1c60ea['on'](_0x4b7a1e(0x14a),_0x18914a=>{const _0x669922=_0x4b7a1e;try{console['log'](_0x18914a[_0x669922(0x145)]());}catch{console['log'](String(_0x18914a));}rl[_0x669922(0x134)](!![]);});function _0xe720a3(){const _0x4ab57d=_0x4b7a1e;antiAfkInterval&&(clearInterval(antiAfkInterval),antiAfkInterval=null),survivalInterval&&(clearInterval(survivalInterval),survivalInterval=null),global[_0x4ab57d(0x140)]=null,console[_0x4ab57d(0x14c)](chalk[_0x4ab57d(0x136)](_0x4ab57d(0x13f))),setTimeout(()=>{startBot(_0x47a321,_0xd9cef);},0x7530);}_0x1c60ea['on'](_0x4b7a1e(0x126),_0xe720a3),_0x1c60ea['on'](_0x4b7a1e(0x129),_0xe720a3);}const username=process['argv'][0x2],password=process['argv'][0x3];(!username||!password)&&(console[a0_0x5344e4(0x14c)](chalk[a0_0x5344e4(0x136)](a0_0x5344e4(0x155))),console[a0_0x5344e4(0x14c)](chalk[a0_0x5344e4(0x148)](a0_0x5344e4(0x158))),process[a0_0x5344e4(0x147)](0x1));startBot(username,password);
+const originalConsoleLog = console.log;
+console.log = function(...args) {
+  if (typeof args[0] === 'string' && (args[0].includes('Chunk size is') || args[0].includes('1cb3ea404e31a6b5000000403c857c4b9e31a800000000000000000000000000000000000000000000000000000000000000000000000000'))) {
+    return;
+  }
+  originalConsoleLog.apply(console, args);
+};
+
+const mineflayer = require("mineflayer");
+const readline = require("readline");
+const { spawn } = require('child_process');
+const fs = require('fs');
+const path = require('path');
+const axios = require('axios');
+const AdmZip = require('adm-zip');
+const _chalk = require("chalk");
+const chalk = _chalk && _chalk.default ? _chalk.default : _chalk;
+
+const GITHUB_API_URL = 'https://api.github.com/repos/Propenthia34/Minecraft-Console-Client/commits/main';
+const GITHUB_ZIP_URL = 'https://github.com/Propenthia34/Minecraft-Console-Client/archive/refs/heads/main.zip';
+const VERSION_FILE = path.join(__dirname, 'version.json');
+
+async function getLocalVersion() {
+    if (!fs.existsSync(VERSION_FILE)) {
+        return null;
+    }
+    const data = fs.readFileSync(VERSION_FILE, 'utf8');
+    return JSON.parse(data).commit;
+}
+
+async function getRemoteVersion() {
+    try {
+        const response = await axios.get(GITHUB_API_URL, {
+            headers: { 'User-Agent': 'CrageNetwork-Bot-Updater' }
+        });
+        return response.data.sha;
+    } catch (error) {
+        console.error(chalk.red('[AutoUpdate] Uzak sürüm bilgisi alınamadı:', error.message));
+        return null;
+    }
+}
+
+async function downloadAndExtractUpdate() {
+    try {
+        console.log(chalk.blue('[AutoUpdate] Güncelleme indiriliyor...'));
+        const response = await axios.get(GITHUB_ZIP_URL, { responseType: 'arraybuffer' });
+        const zip = new AdmZip(response.data);
+        const tempDir = path.join(__dirname, 'temp_update');
+        if (fs.existsSync(tempDir)) fs.rmSync(tempDir, { recursive: true, force: true });
+        fs.mkdirSync(tempDir, { recursive: true });
+
+        zip.extractAllTo(tempDir, true);
+        console.log(chalk.green('[AutoUpdate] Güncelleme indirildi ve çıkarıldı.'));
+
+        const extractedEntries = fs.readdirSync(tempDir);
+        const sourceDir = path.join(tempDir, extractedEntries[0]);
+
+        return sourceDir;
+    } catch (error) {
+        console.error(chalk.red('[AutoUpdate] Güncelleme indirme hatası:', error.message));
+        return null;
+    }
+}
+
+async function checkForUpdates() {
+    console.log(chalk.blue('[AutoUpdate] Güncellemeler kontrol ediliyor...'));
+    const localVersion = await getLocalVersion();
+    const remoteVersion = await getRemoteVersion();
+
+    if (!remoteVersion) return;
+
+    if (!localVersion) {
+        fs.writeFileSync(VERSION_FILE, JSON.stringify({ commit: remoteVersion }));
+        console.log(chalk.yellow('[AutoUpdate] Yerel sürüm bilgisi oluşturuldu.'));
+        return;
+    }
+
+    if (localVersion !== remoteVersion) {
+        console.log(chalk.green('[AutoUpdate] Yeni bir sürüm bulundu! Güncelleniyor...'));
+        const updateSourceDir = await downloadAndExtractUpdate();
+
+        if (updateSourceDir) {
+            console.log(chalk.yellow('[AutoUpdate] Güncelleyici başlatılıyor. Uygulama yeniden başlayacak...'));
+            const updaterPath = path.join(__dirname, 'updater.js');
+            const appDir = __dirname;
+
+            const updater = spawn('node', [updaterPath, updateSourceDir, appDir], {
+                detached: true,
+                stdio: 'ignore'
+            });
+            updater.unref();
+            process.exit();
+        }
+    } else {
+        console.log(chalk.green('[AutoUpdate] Uygulama güncel.'));
+    }
+}
+
+// --- Bot Logic ---
+let antiAfkInterval = null;
+let survivalInterval = null;
+let reconnectTimer = null;
+let reconnectDelay = 5000; 
+
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+const yellow = typeof chalk?.yellow === "function" ? chalk.yellow : (s) => s;
+rl.setPrompt(yellow("> "));
+
+rl.on("line", (input) => {
+  if (global.bot && input.trim().length > 0) {
+    try {
+      global.bot.chat(input.trim());
+    } catch(e) {
+      console.log(chalk.red("Mesaj gönderilirken bir hata oluştu:", e));
+    }
+  }
+  rl.prompt(true);
+});
+
+function startBot(username, password) {
+  console.log(chalk.green("Crage Network Bot'una hoş geldiniz!"));
+  console.log(chalk.yellow("Sunucuya bağlanılıyor..."));
+
+  const bot = mineflayer.createBot({
+    host: "play.cragenetwork.com",
+    port: 25565,
+    username: username,
+    password: password,   
+    auth: "offline",
+    version: "1.21.4",
+    keepAlive: true,
+    checkTimeoutInterval: 60 * 1000,
+    viewDistance: "tiny",
+  });
+
+  global.bot = bot;
+
+  bot.on("resourcePack", () => {
+    try {
+      bot.acceptResourcePack();
+      console.log("[RP] Resource pack kabul edildi.");
+    } catch (e) {
+      console.log("[RP] Resource pack kabul hatası:", e?.message || e);
+    }
+  });
+
+  bot.on("kicked", (reason) => {
+    const reasonText = reason.toString();
+    console.log(chalk.red("[KICKED] Sunucudan atıldınız. Sebep: " + reasonText));
+    
+    if (reasonText.includes('logging in too fast')) {
+        reconnectDelay = 30000; 
+        console.log(chalk.yellow("Çok hızlı giriş denemesi. Yeniden bağlanma süresi 30 saniyeye ayarlandı."));
+    }
+  });
+
+  bot.on("spawn", () => {
+    console.log(chalk.green("Bot sunucuya spawn oldu. Giriş yapılıyor..."));
+    reconnectDelay = 5000; 
+
+    setTimeout(() => {
+      try { bot.chat(`/login ${password}`); } catch {}
+    }, 1500);
+
+    setTimeout(() => {
+      try { bot.chat("/server survival"); } catch {}
+    }, 5000);
+
+    setTimeout(() => {
+      console.log(chalk.yellow("Giriş tamamlandı. /survival döngüsü başlıyor..."));
+      rl.prompt(true);
+      
+      if (survivalInterval) clearInterval(survivalInterval);
+      survivalInterval = setInterval(() => {
+          try {
+              if(global.bot) global.bot.chat('/survival');
+          } catch {}
+      }, 30000);
+    }, 8000);
+
+    if (antiAfkInterval) clearInterval(antiAfkInterval);
+    antiAfkInterval = setInterval(() => {
+      try {
+        if (!bot || !bot.entity) return;
+        const yaw = Math.random() * Math.PI * 2 - Math.PI;
+        const pitch = Math.random() * (Math.PI / 2) - (Math.PI / 4);
+        bot.look(yaw, pitch, true);
+        rl.prompt(true);
+      } catch {}
+    }, 60000);
+  });
+
+  bot.on("message", (jsonMsg) => {
+    try {
+      const messageText = jsonMsg.toAnsi();
+      console.log(messageText);
+    } catch {
+      console.log(String(jsonMsg));
+    }
+    rl.prompt(true);
+  });
+
+  bot.on("error", (err) => {
+      console.log(chalk.red("Kritik bir hata oluştu:", err.message));
+  });
+
+  bot.on("end", (reason) => {
+    if (reconnectTimer) return; 
+
+    console.log(chalk.red(`Bağlantı sonlandı. Sebep: ${reason || 'Bilinmeyen'}`));
+
+    if (global.bot) {
+        global.bot.removeAllListeners();
+    }
+    if (antiAfkInterval) clearInterval(antiAfkInterval);
+    if (survivalInterval) clearInterval(survivalInterval);
+    antiAfkInterval = null;
+    survivalInterval = null;
+    global.bot = null;
+    
+    console.log(chalk.yellow(`${reconnectDelay / 1000} saniye içinde yeniden bağlanılıyor...`));
+    
+    reconnectTimer = setTimeout(() => {
+      startBot(username, password);
+      reconnectTimer = null; 
+    }, reconnectDelay);
+  });
+}
+
+async function main() {
+    await checkForUpdates(); 
+    setInterval(checkForUpdates, 1800000); 
+
+    const username = process.argv[2];
+    const password = process.argv[3];
+
+    if (!username || !password) {
+      console.log(chalk.red("Lütfen kullanıcı adı ve şifre ile başlatın."));
+      console.log(chalk.yellow("Kullanım: Bu programı doğrudan çalıştırmayın. Lütfen start.bat dosyasını kullanın."));
+      process.exit(1);
+    }
+
+    startBot(username, password);
+}
+
+main();
