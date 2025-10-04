@@ -17,7 +17,10 @@
   "author": "Propenthia",
   "license": "ISC",
   "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.12.2",
     "chalk": "^4.1.2",
+    "fs-extra": "^11.3.2",
     "mineflayer": "^4.33.0"
   }
 }

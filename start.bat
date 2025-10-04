@@ -1,7 +1,13 @@
 @echo off
-title CrageNetwork Console Client
-echo Lutfen kullanici adinizi girin:
-set /p username=Kullanici Adi: 
-echo Lutfen sifrenizi girin:
-set /p password=Sifre: 
-start cmd /k node cragenetwork.js %username% %password%
+title Crage Network Bot
+
+echo *******************************************************************
+echo ** Lutfen bu dosyayi bir metin editoruyle acip duzenleyin.      **
+echo ** "KULLANICI_ADINIZ" ve "SIFRENIZ" bolumlerini kendi         **
+echo ** bilgilerinizle degistirin ve dosyayi kaydedin.             **
+echo *******************************************************************
+
+rem Asagidaki satirda KULLANICI_ADINIZ ve SIFRENIZ bolumlerini degistirin.
+node cragenetwork.js KULLANICI_ADINIZ SIFRENIZ
+
+pause
